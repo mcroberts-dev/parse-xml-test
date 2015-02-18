@@ -3,7 +3,15 @@
 		<title>Happy New Year</title>
 		<body>
 			<paragraph>Chinese New Year is an important Chinese festival celebrated at the turn of the Chinese calendar. In China, it is also known as the Spring Festival, the literal translation of the modern Chinese name. Chinese New Year celebrations traditionally run from Chinese New Year's Eve, the last day of the last month of the Chinese calendar, to the Lantern Festival on the 15th day of the first month, making the festival the longest in the Chinese calendar. It falls between January 21 and February 20. Because the Chinese calendar is lunisolar, the Chinese New Year is often referred to as the "Lunar New Year".</paragraph>
-			<image></image>
+			<image>http://www.dragonhorse.ca/Chinese_New_Year.jpg</image>
+		</body>
+	</article>
+	<article date="02 01 2015">
+		<title>Second Article</title>
+		<body>
+			<paragraph>Hi, this is a test.</paragraph>
+			<paragraph>This app is created by: </paragraph>
+			<paragraph>Tony Zhang</paragraph>
 		</body>
 	</article>
 </test>
