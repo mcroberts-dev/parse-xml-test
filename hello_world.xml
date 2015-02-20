@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed>
 	<article>
+		<title>Favorite Quotes</title>
+		<date>02/19/2015</date>
+		<paragraph>Limits, like fears, are often just an illusion.</paragraph>
+		<paragraph>We are here to put a dent in the universe.</paragraph>
+	</article>
+	<article>
 		<title>McRoberts</title>
-		<date>02/20/2015</date>
+		<date>02/19/2015</date>
 		<paragraph>Hello McRoberts strikers!</paragraph>
 	</article>
 	<article>
@@ -25,4 +31,3 @@
 		<image-link>http://upload.wikimedia.org/wikipedia/commons/b/b9/Steve_Jobs_Headshot_2010-CROP.jpg</image-link>
 	</article>
 </feed>
-
