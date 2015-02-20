@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed>
+	<article>
+		<title>Hello World</title>
+		<paragraph>Greetings from the Android world!</paragraph>
+		<image-link>http://upload.wikimedia.org/wikipedia/commons/6/66/Android_robot.png</image-link>
+	</article>
+	<article>
+		<title>Eclipse</title>
+		<paragraph>Eclipse is a very good IDE.</paragraph>
+		<image-link>http://git.eclipse.org/c/platform/eclipse.platform.git/plain/platform/org.eclipse.platform/eclipse256.png</image-link>
+		<paragraph>The picture above is the icon of Eclipse.</paragraph>
+	</article>
+</feed>
