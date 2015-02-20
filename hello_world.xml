@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed>
 	<article>
+		<title>Github is awesome!</title>
+		<date>02/19/2015</date>
+		<paragraph>In Github, you can make repositories and share them with millions. You can easily add collaborators to edit your work. Everything is so awesome!</paragraph>
+		<paragraph>I love Github!</paragraph>
+	</article>
+	<article>
 		<title>Blank Article</title>
 	</article>
 	<article>
